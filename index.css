@@ -125,7 +125,7 @@ span{
 }
 .inner{
     height:155px;
-    background-image: url("third-party.png");
+    background-image: url("./third-party.PNG");
     background-size:100%;
     background-repeat:no-repeat;
 }
@@ -133,24 +133,24 @@ span{
     height:160px;
     margin:10px 10px 150px 10px;
     background-color: #fff;
-    background-image: url("customer.png");
+    background-image: url("./customer.PNG");
     background-size:100%;
     background-repeat:no-repeat;
 }
 .calculator{
-    background-image: url("calculator.png");
+    background-image: url("./calculator.PNG");
     background-size:70%;
     background-repeat:no-repeat;
     background-position: center;
 }
 .tariff{
-    background-image: url("tariff.png");
+    background-image: url("./tariff.PNG");
     background-size:100%;
     background-repeat:no-repeat;
     background-position: bottom;
 }
 .self-service{
-    background-image: url("self-service.png");
+    background-image: url("./self-service.PNG");
     background-size:70%;
     background-repeat:no-repeat;
     background-position: bottom;

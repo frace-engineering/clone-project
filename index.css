@@ -15,7 +15,7 @@ body{
     margin:0 auto;
 }
 .heading{
-    height:350px;
+    height:370px;
     background-color: rgba(13, 95, 158, 0.7);
 }
 .home{
@@ -70,12 +70,11 @@ li{
     height:2px;
 }
 .slid-in-image{
-    height:240px;
+    height:260px;
     margin: 0px 15px 0px 15px;
     border:1px solid blue;
-    opacity:1;
-    background-color: green;
-    background-image: url("covid19.png");
+    opacity:.7;
+    background-image: url("covid-white.png");
     background-size:100%;
     background-repeat:no-repeat;
     background-position: bottom;
@@ -126,7 +125,6 @@ span{
 }
 .inner{
     height:155px;
-    background-color: purple;
     background-image: url("third-party.png");
     background-size:100%;
     background-repeat:no-repeat;
@@ -156,9 +154,4 @@ span{
     background-size:70%;
     background-repeat:no-repeat;
     background-position: bottom;
-}
-
-.down-drop{
-    display:none;
-    background-color: blue;
 }
